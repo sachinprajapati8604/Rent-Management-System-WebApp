@@ -1,0 +1,9 @@
+nav .navbar-nav  a{
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.grad {
+    background-image: linear-gradient(to right, #24b6cc , yellow);
+
+  }
